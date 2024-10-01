@@ -1,6 +1,5 @@
 .idea/
-src/
-Homework-1.iml
+*.iml
 
 out/
 !**/src/main/**/out/
